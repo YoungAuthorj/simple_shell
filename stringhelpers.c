@@ -33,6 +33,7 @@ char *_strdup(char *str)
 int _splitstring(char *str)
 {
     int i;
+}
     int searchflag = 1;
     int wordcount = 0;
 
